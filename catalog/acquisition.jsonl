@@ -1,0 +1,5 @@
+{"checked_at": "2026-10-31T06:06:34.745297+00:00", "error": "<urlopen error [Errno 11001] getaddrinfo failed>", "kind": "arxiv_author_search", "status": "failed", "url": "https://export.arxiv.org/api/query?search_query=au%3A%22Tarun+Chitra%22&start=0&max_results=200&sortBy=submittedDate&sortOrder=ascending"}
+{"checked_at": "2026-10-31T06:06:32.937652+00:00", "error": "<urlopen error [Errno 11001] getaddrinfo failed>", "kind": "personal_index", "status": "failed", "url": "https://tarunchitra.com/"}
+{"checked_at": "2026-10-31T06:06:34.127240+00:00", "error": "<urlopen error [Errno 11001] getaddrinfo failed>", "kind": "personal_index", "status": "failed", "url": "https://tarunchitra.com/blog"}
+{"checked_at": "2026-10-31T06:06:33.528036+00:00", "error": "<urlopen error [Errno 11001] getaddrinfo failed>", "kind": "personal_index", "status": "failed", "url": "https://tarunchitra.com/papers"}
+{"checked_at": "2026-10-31T06:06:34.727817+00:00", "error": "<urlopen error [Errno 11001] getaddrinfo failed>", "kind": "personal_sitemap", "status": "failed", "url": "https://tarunchitra.com/sitemap.xml"}

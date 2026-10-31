@@ -1,0 +1,44 @@
+{
+  "official_indexes": [
+    "https://tarunchitra.com/",
+    "https://tarunchitra.com/papers/",
+    "https://tarunchitra.com/blog/",
+    "https://tarunchitra.com/sitemap.xml"
+  ],
+  "person_terms": [
+    "Tarun Chitra",
+    "Tarun",
+    "Gauntlet founder Tarun",
+    "@tarunchitra"
+  ],
+  "github_organizations": [],
+  "podcast_search_terms": [
+    "Tarun Chitra",
+    "Tarun Chitra Gauntlet",
+    "Tarun Chitra podcast",
+    "Tarun Chitra interview",
+    "Tarun Chitra DeFi",
+    "Tarun Chitra markets",
+    "Tarun Chitra Gauntlet risk",
+    "Tarun Chitra AI crypto",
+    "Tarun Chitra Bitcoin.com",
+    "Tarun Chitra Axelar",
+    "Tarun Chitra Gwart",
+    "Tarun Chitra CFP",
+    "Tarun Chitra podcast 2026"
+  ],
+  "appearance_indexes": [],
+  "publisher_sitemaps": [
+    "https://therollup.co/sitemap.xml",
+    "https://zeroknowledge.fm/sitemap.xml",
+    "https://www.bankless.com/sitemap.xml",
+    "https://www.axelar.network/sitemap.xml",
+    "https://www.theblock.co/sitemap.xml"
+  ],
+  "scope": "Public writing, papers and presentations attributed to Tarun Chitra; public podcast and interview appearances; and public posts by the verified @tarunchitra account when official API access is available. Related papers and uncertain identity matches remain separately labeled.",
+  "publication_policy": "Public source links and metadata are committed. Full copyrighted writing, transcripts, and tweets stay local and ignored unless a redistribution license is established. X content collection requires an official API bearer token supplied through CHITRAVERSE_X_BEARER_TOKEN; the token is never stored.",
+  "writing_indexes": [
+    "https://medium.com/@tarunchitra",
+    "https://topologie.org"
+  ]
+}

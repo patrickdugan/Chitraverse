@@ -1,0 +1,17 @@
+[
+  {
+    "url": "https://tarunchitra.com/papers/",
+    "relationship": "personal_site_index",
+    "review_basis": "Official personal Papers page listing course work, presentations, and a thesis"
+  },
+  {
+    "url": "https://arxiv.org/search/?query=Tarun+Chitra&searchtype=author",
+    "relationship": "author_discovery_index",
+    "review_basis": "ArXiv author search is a discovery source; each paper author list will be verified"
+  },
+  {
+    "url": "https://www.alphaxiv.org/%40tarun-chitra",
+    "relationship": "secondary_author_index",
+    "review_basis": "Secondary author index used only to widen discovery; not proof of authorship"
+  }
+]

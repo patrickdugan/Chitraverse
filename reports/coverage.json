@@ -1,0 +1,27 @@
+{
+  "generated_at": "2026-10-31T06:09:13.039777+00:00",
+  "writing_source_records": 15,
+  "writing_texts_stored": 0,
+  "authored_or_personal_site_papers": 12,
+  "paper_texts_stored": 0,
+  "other_paper_or_citation_records": 0,
+  "appearance_source_records": 14,
+  "confirmed_appearance_source_records": 11,
+  "confirmed_transcript_records": 0,
+  "transcripts_requiring_review": 0,
+  "tweet_records": 0,
+  "tweet_candidates": 1,
+  "tweet_full_text_files_stored": 0,
+  "acquisition_failures": 5,
+  "exhaustive_coverage_established": false,
+  "limits": [
+    "Personal-site discovery is bounded to linked pages and the site sitemap; an unindexed page may be missing.",
+    "ArXiv author records are matched against the exact author name; cited works are not counted as authored papers.",
+    "Podcast and interview source URLs can describe the same event; URL counts are not event counts.",
+    "Tweet collection requires an X API bearer token. Without it, the public timeline cannot be scanned through the official API.",
+    "X API availability and retention can omit older posts even with credentials; the report does not claim a complete historical archive.",
+    "Full publisher texts, transcripts, and tweet text remain local and ignored by Git.",
+    "Machine transcripts are unverified and do not infer speaker labels.",
+    "No recurring collection schedule is installed."
+  ]
+}

@@ -1,0 +1,11 @@
+.venv/
+.cache/
+media/
+private/
+__pycache__/
+*.pyc
+*.egg-info/
+.env
+reports/*worker.json
+
+.test-tmp/

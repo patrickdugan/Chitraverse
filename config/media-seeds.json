@@ -1,0 +1,114 @@
+[
+  {
+    "url": "https://www.bankless.com/-tarun-chitra-on-whether-code-is",
+    "title_hint": "Tarun Chitra on Whether Code Is Law",
+    "publisher": "Bankless / Layer Zero",
+    "participation": "confirmed",
+    "role": "interview",
+    "participation_basis": "Publisher episode page explicitly identifies Tarun Chitra; transcript available"
+  },
+  {
+    "url": "https://solana.com/podcasts/validated-with-austin-federa/episodes/a-crypto-natives-history-of-markets-w-tarun-chitra-gauntlet-z7bljsif",
+    "title_hint": "A Crypto Native's History of Markets w/ Tarun Chitra",
+    "publisher": "Validated",
+    "participation": "confirmed",
+    "role": "podcast",
+    "participation_basis": "Publisher episode metadata identifies Tarun Chitra"
+  },
+  {
+    "url": "https://zeroknowledge.fm/podcast/317/",
+    "title_hint": "Enhancing On-Chain Intelligence with Ritual",
+    "publisher": "Zero Knowledge Podcast",
+    "participation": "confirmed",
+    "role": "podcast",
+    "participation_basis": "Publisher transcript explicitly names Tarun Chitra as speaker"
+  },
+  {
+    "url": "https://therollup.co/podcast/tarun-chitra-on-ai-x-crypto-his-ai-daily-drivers-and-staking-landscape",
+    "title_hint": "Tarun Chitra on AI x Crypto, His AI Daily Drivers, and Staking Landscape",
+    "publisher": "The Rollup",
+    "participation": "confirmed",
+    "role": "podcast",
+    "participation_basis": "Publisher title and episode page explicitly identify Tarun Chitra"
+  },
+  {
+    "url": "https://www.theblock.co/videos/the-big-brain-podcast/gauntlet-ceo-tarun-chitra-on-why-exchange-adl-mechanisms-need-an-update",
+    "title_hint": "Gauntlet CEO Tarun Chitra on Why Exchange ADL Mechanisms Need an Update",
+    "publisher": "The Block",
+    "participation": "confirmed",
+    "role": "interview",
+    "participation_basis": "Publisher title and outline explicitly identify Tarun Chitra"
+  },
+  {
+    "url": "https://podscan.fm/podcasts/the-gwart-show-blockspace-media/episodes/the-unseen-risks-of-restaking-w-tarun-chitra",
+    "title_hint": "The Unseen Risks of Restaking w/ Tarun Chitra",
+    "publisher": "The Gwart Show",
+    "participation": "confirmed",
+    "role": "podcast",
+    "participation_basis": "Episode title explicitly identifies Tarun Chitra"
+  },
+  {
+    "url": "https://www.coinbase.com/developer-platform/discover/episodes/cdpod-s2e4-tarun-chitra-on-asics-defi-risk-and-gauntlet",
+    "title_hint": "CDPod S2E4: Tarun Chitra on ASICs, DeFi risk, and Gauntlet",
+    "publisher": "Coinbase Developer Platform",
+    "participation": "review_required",
+    "role": "podcast",
+    "participation_basis": "Publisher/index search result identifies episode; canonical source URL needs review"
+  },
+  {
+    "url": "https://www.moneycode.show/episodes/how-vaults-bring-transparent-programmable-yields-w-tarun-chitra-gauntlet",
+    "title_hint": "How Vaults Bring Transparent, Programmable Yields w/ Tarun Chitra",
+    "publisher": "Money Code",
+    "participation": "review_required",
+    "role": "podcast",
+    "participation_basis": "Directory result identifies guest; publisher URL needs verification"
+  },
+  {
+    "url": "https://open.spotify.com/episode/2SK0iOATc4NuTQTLnHSAYD",
+    "title_hint": "Tarun Chitra: Gauntlet and the Future of Governance",
+    "publisher": "The Delphi Podcast",
+    "participation": "confirmed",
+    "role": "podcast",
+    "participation_basis": "Episode title and publisher description identify Tarun Chitra"
+  },
+  {
+    "url": "https://therollup.co/podcast/the-truth-about-what-went-wrong-with-crypto-ai-agents-with-tarun-chitra-and-wei-dai",
+    "title_hint": "The Truth About What Went Wrong with Crypto AI Agents with Tarun Chitra and Wei Dai",
+    "publisher": "The Rollup",
+    "participation": "confirmed",
+    "role": "podcast",
+    "participation_basis": "Publisher episode title names Tarun Chitra"
+  },
+  {
+    "url": "https://www.axelar.network/blog/axelar-ama-tarun-chitra-from-gauntlet-w-sergey-gorbunov",
+    "title_hint": "Axelar AMA: Tarun Chitra from Gauntlet w/ Sergey Gorbunov",
+    "publisher": "Axelar",
+    "participation": "confirmed",
+    "role": "interview",
+    "participation_basis": "Publisher page includes interview transcript and explicitly identifies Tarun Chitra"
+  },
+  {
+    "url": "https://podcasts.apple.com/au/podcast/gauntlet-ceo-tarun-chitra-on-why-exchange-adl-mechanisms/id1815475586?i=1000741573124",
+    "title_hint": "Gauntlet CEO Tarun Chitra on Why Exchange ADL Mechanisms Need an Update",
+    "publisher": "The Big Brain Podcast",
+    "participation": "confirmed",
+    "role": "podcast",
+    "participation_basis": "Apple episode record explicitly identifies Tarun Chitra"
+  },
+  {
+    "url": "https://podcasts.apple.com/be/podcast/gauntlet-ceo-tarun-chitra-on-defi-risk-rwas-japan-cryptos/id1406939454?i=1000778174078",
+    "title_hint": "Gauntlet CEO Tarun Chitra on DeFi Risk, RWAs, Japan & Crypto’s AI Moment",
+    "publisher": "Bitcoin.com News Interviews",
+    "participation": "confirmed",
+    "role": "podcast",
+    "participation_basis": "Apple episode title and description explicitly identify Tarun Chitra"
+  },
+  {
+    "url": "https://podwise.ai/episodes/6029676",
+    "title_hint": "How Vaults Bring Transparent, Programmable Yields w/ Tarun Chitra (Gauntlet)",
+    "publisher": "Money Code",
+    "participation": "review_required",
+    "role": "podcast",
+    "participation_basis": "Third-party transcript index identifies guest; original publisher version still to locate"
+  }
+]
