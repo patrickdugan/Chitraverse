@@ -1,0 +1,214 @@
+{
+  "packet_version": "1.0",
+  "created_date": "2026-11-01",
+  "status": "BLOCKED_NOT_LAUNCHED",
+  "repository": "patrickdugan/Chitraverse",
+  "base_branch": "main",
+  "base_sha": "f89bc19267cf5d7d1ee99af5da4f2293647e34ad",
+  "branch_name": "research/compact-agi-20261101",
+  "chat_id": null,
+  "model_id": null,
+  "reasoning_effort": null,
+  "prompt_message_ids": null,
+  "result_ids": null,
+  "research_completed": false,
+  "xhigh_sessions_launched": 0,
+  "owner": "single coordinator for shared index/manifest/integration; each future thread owns its numbered folder",
+  "boundaries": [
+    "repository preparation only",
+    "no launches, experiments, training, or paid calls",
+    "no theorem-level claim from abstracts",
+    "no wholesale copyrighted source texts",
+    "sealed acceptance answers remain private",
+    "preserve private/ and .cache/ ignores"
+  ],
+  "tracks": [
+    {
+      "id": "01_bars_theory",
+      "title": "BARS theory audit",
+      "prompt_file": "01_bars_theory/LAUNCH_PROMPT.md",
+      "status": "BLOCKED_NOT_LAUNCHED",
+      "chat_id": null,
+      "model_id": null,
+      "reasoning_effort": null,
+      "prompt_message_id": null,
+      "result_id": null,
+      "source_urls": [
+        "https://arxiv.org/abs/2504.09777"
+      ],
+      "outputs": [
+        "README.md",
+        "sources.jsonl",
+        "claims.md",
+        "SPEC.md",
+        "EVALUATION.md",
+        "HANDOFF.md",
+        "receipts.jsonl"
+      ]
+    },
+    {
+      "id": "02_reward_to_skill",
+      "title": "Reward to skill protocol",
+      "prompt_file": "02_reward_to_skill/LAUNCH_PROMPT.md",
+      "status": "BLOCKED_NOT_LAUNCHED",
+      "chat_id": null,
+      "model_id": null,
+      "reasoning_effort": null,
+      "prompt_message_id": null,
+      "result_id": null,
+      "source_urls": [
+        "https://arxiv.org/abs/2504.09777"
+      ],
+      "outputs": [
+        "README.md",
+        "sources.jsonl",
+        "claims.md",
+        "SPEC.md",
+        "EVALUATION.md",
+        "HANDOFF.md",
+        "receipts.jsonl"
+      ]
+    },
+    {
+      "id": "03_budget_scheduler",
+      "title": "Compute budget scheduler",
+      "prompt_file": "03_budget_scheduler/LAUNCH_PROMPT.md",
+      "status": "BLOCKED_NOT_LAUNCHED",
+      "chat_id": null,
+      "model_id": null,
+      "reasoning_effort": null,
+      "prompt_message_id": null,
+      "result_id": null,
+      "source_urls": [
+        "https://arxiv.org/abs/2602.15182"
+      ],
+      "outputs": [
+        "README.md",
+        "sources.jsonl",
+        "claims.md",
+        "SPEC.md",
+        "EVALUATION.md",
+        "HANDOFF.md",
+        "receipts.jsonl"
+      ]
+    },
+    {
+      "id": "04_specialist_routing",
+      "title": "Specialist routing and composition",
+      "prompt_file": "04_specialist_routing/LAUNCH_PROMPT.md",
+      "status": "BLOCKED_NOT_LAUNCHED",
+      "chat_id": null,
+      "model_id": null,
+      "reasoning_effort": null,
+      "prompt_message_id": null,
+      "result_id": null,
+      "source_urls": [
+        "https://arxiv.org/abs/2502.02059"
+      ],
+      "outputs": [
+        "README.md",
+        "sources.jsonl",
+        "claims.md",
+        "SPEC.md",
+        "EVALUATION.md",
+        "HANDOFF.md",
+        "receipts.jsonl"
+      ]
+    },
+    {
+      "id": "05_solver_selection",
+      "title": "Proposal and solver selection",
+      "prompt_file": "05_solver_selection/LAUNCH_PROMPT.md",
+      "status": "BLOCKED_NOT_LAUNCHED",
+      "chat_id": null,
+      "model_id": null,
+      "reasoning_effort": null,
+      "prompt_message_id": null,
+      "result_id": null,
+      "source_urls": [
+        "https://arxiv.org/abs/2403.02525",
+        "https://arxiv.org/abs/2301.12532"
+      ],
+      "outputs": [
+        "README.md",
+        "sources.jsonl",
+        "claims.md",
+        "SPEC.md",
+        "EVALUATION.md",
+        "HANDOFF.md",
+        "receipts.jsonl"
+      ]
+    },
+    {
+      "id": "06_evaluation_integrity",
+      "title": "Evaluation integrity and provenance",
+      "prompt_file": "06_evaluation_integrity/LAUNCH_PROMPT.md",
+      "status": "BLOCKED_NOT_LAUNCHED",
+      "chat_id": null,
+      "model_id": null,
+      "reasoning_effort": null,
+      "prompt_message_id": null,
+      "result_id": null,
+      "source_urls": [
+        "https://arxiv.org/abs/2509.18338",
+        "https://arxiv.org/abs/2003.10001"
+      ],
+      "outputs": [
+        "README.md",
+        "sources.jsonl",
+        "claims.md",
+        "SPEC.md",
+        "EVALUATION.md",
+        "HANDOFF.md",
+        "receipts.jsonl"
+      ]
+    },
+    {
+      "id": "07_feedback_stability",
+      "title": "Feedback stability and manipulation",
+      "prompt_file": "07_feedback_stability/LAUNCH_PROMPT.md",
+      "status": "BLOCKED_NOT_LAUNCHED",
+      "chat_id": null,
+      "model_id": null,
+      "reasoning_effort": null,
+      "prompt_message_id": null,
+      "result_id": null,
+      "source_urls": [
+        "https://arxiv.org/abs/2307.13139",
+        "https://arxiv.org/abs/2309.14201"
+      ],
+      "outputs": [
+        "README.md",
+        "sources.jsonl",
+        "claims.md",
+        "SPEC.md",
+        "EVALUATION.md",
+        "HANDOFF.md",
+        "receipts.jsonl"
+      ]
+    },
+    {
+      "id": "08_transfer_worlds",
+      "title": "Transfer across small worlds",
+      "prompt_file": "08_transfer_worlds/LAUNCH_PROMPT.md",
+      "status": "BLOCKED_NOT_LAUNCHED",
+      "chat_id": null,
+      "model_id": null,
+      "reasoning_effort": null,
+      "prompt_message_id": null,
+      "result_id": null,
+      "source_urls": [
+        "https://arxiv.org/abs/1904.12924"
+      ],
+      "outputs": [
+        "README.md",
+        "sources.jsonl",
+        "claims.md",
+        "SPEC.md",
+        "EVALUATION.md",
+        "HANDOFF.md",
+        "receipts.jsonl"
+      ]
+    }
+  ]
+}
